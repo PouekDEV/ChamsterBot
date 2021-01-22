@@ -4,6 +4,10 @@ Chamster bot is a python program that have fun things and other stuff that you c
 # V.0.4
 • coming soon...
 
+# V.0.3.5
+• Folder fix
+• Updated license
+
 # V.0.3
 • Coder and Decoder that codes and decodes file with text in it
 • license built in program
